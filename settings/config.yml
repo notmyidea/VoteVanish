@@ -1,0 +1,13 @@
+#Sat Jul 13 17:35:59 CEST 2024
+ignore-channels=1040958184824774700,1340958184824774700
+logs-channel=1040958504715943959
+require-users-to-delete=10
+undeletable-roles=admin,mod,staff
+public-logs=true
+load-bot=true
+token=1234-5678-9012-3456
+public-logs-channel=1240958504715943959
+ignore-user=123456789012345678,876543210987654321
+delete-bots=false
+ignore-roles=muted,punished,jailed
+undeletable-user=590503267809624067,123456789012345678
